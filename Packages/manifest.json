@@ -3,7 +3,6 @@
     "com.unity.entities": "1.3.10",
     "com.unity.entities.graphics": "1.3.10",
     "com.unity.physics": "1.3.10",
-    "com.coplaydev.coplay": "https://github.com/CoplayDev/coplay-unity-plugin.git#beta",
     "com.unity.ai.navigation": "2.0.9",
     "com.unity.collab-proxy": "2.11.2",
     "com.unity.ide.rider": "3.0.38",
